@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayerX</string>
+    <string name="albumart">AlbumArt</string>
+    <string name="playbtn">PlayBtn</string>
+    <string name="skipnextbtn">skipNextBtn</string>
+    <string name="skipprevbtn">skipPrevBtn</string>
+</resources>
